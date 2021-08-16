@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sender": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

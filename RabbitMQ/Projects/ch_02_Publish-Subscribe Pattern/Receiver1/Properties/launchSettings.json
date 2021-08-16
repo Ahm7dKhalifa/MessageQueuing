@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Receiver": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

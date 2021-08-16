@@ -1,0 +1,36 @@
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\bin\Debug\net5.0\Receiver.exe
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\bin\Debug\net5.0\Receiver.deps.json
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\bin\Debug\net5.0\Receiver.runtimeconfig.json
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\bin\Debug\net5.0\Receiver.runtimeconfig.dev.json
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\bin\Debug\net5.0\Receiver.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\bin\Debug\net5.0\ref\Receiver.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\bin\Debug\net5.0\Receiver.pdb
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.csprojAssemblyReference.cache
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.AssemblyInfoInputs.cache
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.AssemblyInfo.cs
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.csproj.CoreCompileInputs.cache
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.csproj.CopyComplete
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\ref\Receiver.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.pdb
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_01_intro\Receiver\obj\Debug\net5.0\Receiver.genruntimeconfig.cache
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\bin\Debug\net5.0\Receiver.exe
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\bin\Debug\net5.0\Receiver.deps.json
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\bin\Debug\net5.0\Receiver.runtimeconfig.json
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\bin\Debug\net5.0\Receiver.runtimeconfig.dev.json
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\bin\Debug\net5.0\Receiver.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\bin\Debug\net5.0\ref\Receiver.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\bin\Debug\net5.0\Receiver.pdb
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.csprojAssemblyReference.cache
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.AssemblyInfoInputs.cache
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.AssemblyInfo.cs
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.csproj.CoreCompileInputs.cache
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.csproj.CopyComplete
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\ref\Receiver.dll
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.pdb
+D:\Github\MessageQueuing\RabbitMQ\Projects\ch_02_Publish-Subscribe Pattern\Receiver1\obj\Debug\net5.0\Receiver.genruntimeconfig.cache

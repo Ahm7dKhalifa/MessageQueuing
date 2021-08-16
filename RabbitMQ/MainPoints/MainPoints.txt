@@ -1,7 +1,7 @@
 ========================================
 1.- what is RABBIT-MQ ? 
   - What Are Main components Of RabbitMq ?
-  - Exchange : 
+  - Explain Exchange Component : 
       - What is an exchange ? 
       - What are routing keys and bindings ? 
       - How are exchanges and queues associated with each other ? 
@@ -18,11 +18,15 @@
 3.https://www.youtube.com/watch?v=w84uFSwulBI
 
 ==========================================
-2.
+2.Sample Projects For :
+1- One To One Communication
+2- Publish/Subscribe
 ==========================================
 #resources :
-
-
+--> Folder : One To One Communication
+1- https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
+--> Folder : Publish/Subscribe Pattern
+1- https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html
 ==========================================
 3.
 ==========================================

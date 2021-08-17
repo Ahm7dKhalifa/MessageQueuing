@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJPc2kvgy9XMqnCr3GvSzNOLg21IuEdvq+SqAh4yDOwqxsGQl79kbEGEjxq1909sUb3iHUO5bjU2VTytNKdB4g==",
+  "dgSpecHash": "VRhhEra3xp+HHA7WtSijPig/VEy749KfTVIh/JTwVOZURVyzO9Aiaw8QyYtvZ4F9lATuIEzCRIrnkWfbQJpCuQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\MessageQueuing\\RabbitMQ\\Projects\\ch_01_intro\\Sender\\Sender.csproj",
+  "projectFilePath": "D:\\Github\\MessageQueuing\\RabbitMQ\\Projects\\ch_01_One To One Communication\\Sender\\Sender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed.abdelaziz\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
     "C:\\Users\\ahmed.abdelaziz\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

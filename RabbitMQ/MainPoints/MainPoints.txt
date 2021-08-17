@@ -1,13 +1,28 @@
 ========================================
 1.- what is RABBIT-MQ ? 
-  - What Are Main components Of RabbitMq ?
+  - What Are Main components Of RabbitMq ? 
+  OR Define RABBITMQ CONCEPTS and KEYWORDS ?
+     - Producer
+     - Consumer
+     - Queue
+     - Exchange
+     - Binding
+     - routing keys
   - Explain Exchange Component : 
-      - What is an exchange ? 
-      - What are routing keys and bindings ? 
-      - How are exchanges and queues associated with each other ? 
-      - When should I use them and how ? 
-      - what are The different types of exchanges in RabbitMQ and scenarios for how to use ?
-  - Define RABBITMQ CONCEPTS and KEYWORDS ?
+      - What is an exchange ?  
+      - what are The different types of exchanges in RabbitMQ and scenarios for how to use every type of them ?
+  - Code Sample For :
+       -  establish a connection to the RabbitMQ server using a ConnectionFactory ( for proudcer and consumer ) 
+       -  for producer :
+              - how to create or declare or connect to queue ?
+              - how to Publish message ?
+              - how to create or declare exchange ?
+              - how to bind queue to exchange ?
+       - for consumer :
+              - how to create or declare or connect to queue ? 
+              - how to to build event to receive message ?
+  	      - how to create or declare exchange ?
+              - how to bind queue to exchange ?
 ========================================
 #resources :
 1. 
@@ -17,16 +32,28 @@
 2.https://www.youtube.com/watch?v=deG25y_r6OY&t=226s
 3.https://www.youtube.com/watch?v=w84uFSwulBI
 
+5.
+5.1 https://lostechies.com/derekgreer/2012/03/05/rabbitmq-for-windows-introduction/
+5.2 https://lostechies.com/derekgreer/2012/03/07/rabbitmq-for-windows-building-your-first-application/
+5.3 https://lostechies.com/derekgreer/2012/03/18/rabbitmq-for-windows-hello-world-review/
+5.4 https://lostechies.com/derekgreer/2012/03/28/rabbitmq-for-windows-exchange-types/
+5.5 https://lostechies.com/derekgreer/2012/04/02/rabbitmq-for-windows-direct-exchanges/
+5.6 https://lostechies.com/derekgreer/2012/05/16/rabbitmq-for-windows-fanout-exchanges/
+5.7 https://lostechies.com/derekgreer/2012/05/18/rabbitmq-for-windows-topic-exchanges/
+5.8 https://lostechies.com/derekgreer/2012/05/29/rabbitmq-for-windows-headers-exchanges/
 ==========================================
 2.Sample Projects For :
-1- One To One Communication
-2- Publish/Subscribe
+1- One To One Communication (direct exchange)
+2- Publish/Subscribe Pattern (Fangout exchange)
+3- Routing (direct exchange)
 ==========================================
 #resources :
 --> Folder : One To One Communication
 1- https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
 --> Folder : Publish/Subscribe Pattern
 1- https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html
+--> Folder : Routing
+1- https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html
 ==========================================
 3.
 ==========================================

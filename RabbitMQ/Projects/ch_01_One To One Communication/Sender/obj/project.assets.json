@@ -117,11 +117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\MessageQueuing\\RabbitMQ\\Projects\\ch_01_intro\\Sender\\Sender.csproj",
+      "projectUniqueName": "D:\\Github\\MessageQueuing\\RabbitMQ\\Projects\\ch_01_One To One Communication\\Sender\\Sender.csproj",
       "projectName": "Sender",
-      "projectPath": "D:\\Github\\MessageQueuing\\RabbitMQ\\Projects\\ch_01_intro\\Sender\\Sender.csproj",
+      "projectPath": "D:\\Github\\MessageQueuing\\RabbitMQ\\Projects\\ch_01_One To One Communication\\Sender\\Sender.csproj",
       "packagesPath": "C:\\Users\\ahmed.abdelaziz\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\MessageQueuing\\RabbitMQ\\Projects\\ch_01_intro\\Sender\\obj\\",
+      "outputPath": "D:\\Github\\MessageQueuing\\RabbitMQ\\Projects\\ch_01_One To One Communication\\Sender\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -177,7 +177,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

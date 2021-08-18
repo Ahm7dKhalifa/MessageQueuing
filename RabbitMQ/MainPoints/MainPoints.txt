@@ -46,6 +46,7 @@
 1- One To One Communication (direct exchange)
 2- Publish/Subscribe Pattern (Fangout exchange)
 3- Routing (direct exchange)
+4- Topics
 ==========================================
 #resources :
 --> Folder : One To One Communication
@@ -54,6 +55,8 @@
 1- https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html
 --> Folder : Routing
 1- https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html
+--> Folder : Topics
+1- https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html
 ==========================================
 3.
 ==========================================
